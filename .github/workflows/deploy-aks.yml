@@ -10,8 +10,8 @@ permissions:
   contents: read # Required to read repository contents
 
 env:
-   RESOURCE_GROUP: marianoResourceGroup
-   AKS_CLUSTER_NAME: marianoAKSCluster
+   RESOURCE_GROUP: mariano2ResourceGroup
+   AKS_CLUSTER_NAME: mariano2AKSCluster
    LOCATION: australiaeast
 
 jobs:
